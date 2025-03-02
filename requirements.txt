@@ -7,3 +7,4 @@ psycopg2-binary  # For PostgreSQL (or use mysql-connector-python for MySQL)
 httpx  # For testing
 python-dotenv  # For environment variables
 passlib[bcrypt]  # For password hashing
+email-validator
